@@ -1,0 +1,22 @@
+{
+  "name": "quick-teatest",
+  "version": "1.0.0",
+  "description": "teatest for quickly",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BerkahCrpto/quick-teatest.git"
+  },
+  "keywords": [
+    "ff"
+  ],
+  "author": "ff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BerkahCrpto/quick-teatest/issues"
+  },
+  "homepage": "https://github.com/BerkahCrpto/quick-teatest#readme"
+}
